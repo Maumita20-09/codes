@@ -6,4 +6,4 @@ elif h<=4:
 elif h<=6:
     print("Price =",100+100+((h-4)*60))
 else:
-    print("Price =",100+100+100)
+    print("Price =",100+200)
